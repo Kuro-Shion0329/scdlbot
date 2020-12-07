@@ -18,8 +18,8 @@ _Send or forward_ a text message containing links and I will:
 *Example message:*
 `Hey, check this out! https://m.soundcloud.com/falling-ethics/jk-flesh-static-demon-fexelvn004 and also https://shitmat.bandcamp.com/track/amen-babylon-2016-mix and youtu.be/Mdzy5RKn434`
 
-*Developed by @KuroShion0329*:
-[Channel](https://t.me/KuroShion0329)
+*Developed by @KuroShion*:
+[Channel](https://t.me/KuroShion)
 💵 Support development:
 [PayPal](http://paypal.me/KuroShion)
 
